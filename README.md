@@ -30,4 +30,4 @@ Here are the steps you need to follow:
 # 1.1. Choose your Dataset
 Download the Dataset Options file that provides an overview of each dataset option and example topics to explore. Below is a compiled list of the datasets you can choose from:
 
-Loan Data from Prosper: This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. See this data dictionary to understand the dataset's variables.
+Loan Data from Prosper [data](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000) : This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. See this data dictionary to understand the dataset's variables.
